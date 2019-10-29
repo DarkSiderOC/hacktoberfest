@@ -799,3 +799,9 @@
 - Place: Delhi, India
 - Bio: - Undergraduate
 - Github: [neo700](https://github.com/neo700)
+
+#### Name: [Alberto](https://github.com/dgavio)
+
+- Place: Italy, Padova
+- Bio: Computer Science master degree student.
+- GitHub: [DarkSiderOC](https://github.com/DarkSiderOC)
